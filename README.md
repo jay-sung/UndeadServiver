@@ -1,3 +1,5 @@
+![](./undead-servivor-image.png)
+
 # Undead Servivor
 
 Undead Survivor는 Unity 기반으로 개발한 탑다운 형식의 서바이벌 캐주얼 게임입니다.
